@@ -1,0 +1,10 @@
+inputs:
+#  - name: "gisaid"
+#    metadata: "data/metadata.tsv"
+#    sequences: "data/sequences.fasta.xz"
+  - name: "aspen"
+    metadata: "data/metadata_aspen.tsv"
+    sequences: "data/sequences_aspen.fasta"
+
+
+use_nextalign: true
